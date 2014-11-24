@@ -39,5 +39,5 @@ Rails.application.configure do
   # Raises error for missing translations
   # config.action_view.raise_on_missing_translations = true
 
-  config.action_mailer.default_url_options = { :host => 'immense-bastion-5702.herokuapp.com' }
+  config.action_mailer.default_url_options = { :host => 'https://immense-bastion-5702.herokuapp.com' }
 end
